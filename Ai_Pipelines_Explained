@@ -1,5 +1,15 @@
-# Ai_Pipeline_Project_Using_Ms_Azure
-Regression TASK
+Ai_Pipeline_Project_Using_Ms_Azure
+
+
+#Overview
+
+
+In this Project I created pipelines using diffrent machine learning techniques for different tasks using the canvas editor provided by MS Azure so
+I didn`t perform any coding to speed up the process. In this project I showed my basic understanding of the differnt machine learning techniques
+used.
+
+
+#Regression TASK
 
 
 Pipeline model design used for both the pipelines:
@@ -32,7 +42,7 @@ Also I split 90% of the data trough the split data module.
 On the right you can see the predicted sales for a given store, if you look at both the pipeline Images you can see that they are both slightly different.
 
 
-Classification Task
+#Classification Task
 
 
 Pipeline model design used for both the pipelines:
@@ -59,7 +69,7 @@ Pipeline 2
 In this pipeline I still kept all of the labels, the only thing I changed is the split ratio where I entered 0.6
 By looking at the score result of the dataset it is hard to find differences to see that I had to look at the evaluation results of each.
 
-Clustering Task
+#Clustering Task
 
 
 Pipeline model design used for pipeline:
@@ -80,7 +90,7 @@ For this pipeline in the select column section I selected all the labels except 
 For the split ration I entered 0.7 .
 
 
-Computer Vision Task
+#Computer Vision Task
 
 
 Pipeline model used for the pipeline:
