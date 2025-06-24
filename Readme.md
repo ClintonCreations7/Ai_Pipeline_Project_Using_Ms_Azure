@@ -18,7 +18,7 @@ Pipeline model design used for both the pipelines:
 ![image](https://github.com/user-attachments/assets/de6fc606-1992-4fc0-b3f2-bf746c84a8f4)
 
 
-Pipeline 1 results
+Pipeline 1 results:
 
 
 ![image](https://github.com/user-attachments/assets/34b76091-c1ec-43d5-89e1-2cf6a296abf1)
@@ -31,7 +31,7 @@ Since the purpose of the pipeline is to see the impact of different variables on
 On the right the scored label section shows the predicted weekly sales for the given store.
 
 
-Pipeline 2 results
+Pipeline 2 results:
 
 
 ![image](https://github.com/user-attachments/assets/991f2293-a21b-42a4-bc1d-4696f55773de)
@@ -51,7 +51,7 @@ Pipeline model design used for both the pipelines:
 ![image](https://github.com/user-attachments/assets/1202cbf5-1476-47a2-a8be-51ec65f6ed41)
 
 
-Pipeline 1
+Pipeline 1 results:
 
 
 ![image](https://github.com/user-attachments/assets/ca237787-399c-4f85-bea7-4baf81cdba52)
@@ -60,7 +60,7 @@ Pipeline 1
 In the first pipeline I made use of all of the labels, the data split I entered 0.7 and I normalised all the numeric values by using the normalise data module label values to make them similar between each other to avoid bias.
 
 
-Pipeline 2
+Pipeline 2 results:
 
 
 ![image](https://github.com/user-attachments/assets/b5bd26ba-d37c-4d41-ab63-09625fc83c40)
@@ -78,7 +78,7 @@ Pipeline model design used for pipeline:
 ![image](https://github.com/user-attachments/assets/1624921e-34c2-4191-85cf-b3549b4c9a16)
 
 
-Pipeline 1
+Pipeline 1 results:
 
 
 ![image](https://github.com/user-attachments/assets/e0210b95-bca4-45dc-b66d-3e6fc4de43e7)
@@ -99,7 +99,7 @@ Pipeline model used for the pipeline:
 ![image](https://github.com/user-attachments/assets/fcf3d44f-6d59-417a-9bf3-d158446bbb9a)
 
 
-Pipeline 1:
+Pipeline 1 results:
 
 
 ![image](https://github.com/user-attachments/assets/8df5d952-ebbd-4a62-af95-97676b441177)
